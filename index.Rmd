@@ -1,7 +1,5 @@
 ---
 title: "Our website"
-author: "Tianjiao Mei"
-date: "2/8/2022"
 output: html_document
 ---
 
@@ -27,4 +25,5 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+![a car ](https://www.extremetech.com/wp-content/uploads/2019/12/SONATA-hero-option1-764A5360-edit-640x354.jpg)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
